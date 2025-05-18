@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Blockchain Explorer | Meme-Driven Coder from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Code.+Sleep.+Debug.+Repeat.;Building+cool+things+on+Solana+%F0%9F%9A%80;Let's+make+the+web+smarter+and+funnier!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Code.+Sleep.+Lift.+Repeat.;Let's+make+the+web+smarter+and+funnier!" alt="Typing SVG" />
 </p>
 
 ---
