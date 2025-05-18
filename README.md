@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Web 3 and the Solana Blockchain**
-- 🌱 Constantly leveling up with TypeScript, Docker & D3.js
+- 🌱 Constantly leveling up with Next JS, Tailwind and SQL
 - 🛠️ Turning ☕ into scalable code
 - 📨 Reach me at: **azmeeriqbal@gmail.com**
 - ⚡ Fun Fact: *Work hard until you can afford a Giraffe 🦒 (odd flex, but ok)*
